@@ -20,4 +20,7 @@ End - move cursor down
 Right Ctrl - switch cursor mode
 E - place/destroy block
 
+Ctrl + S - Save world
+Ctrl + O - Load world
+
 //add more later
