@@ -1,3 +1,3 @@
 @echo off
-make
+mingw32-make
 start game.exe

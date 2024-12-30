@@ -10,6 +10,7 @@ Built using raylib.
  - Walking sound effect - Modified by me, original: https://freesound.org/people/mitchanary/sounds/505139/
  - Breaking blocks sound effect - https://opengameart.org/content/break-pumpkin
  - Placing blocks sound effect - https://opengameart.org/content/breaking-rock
+ - Perlin noise library - Created by Ryo Suzuki <reputeless@gmail.com> (https://github.com/Reputeless/PerlinNoise) (see perlinlicense.txt)
 
 #Controls:
  - Space - Jump
